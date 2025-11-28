@@ -1,0 +1,6 @@
+Flask
+Pillow
+piexif
+pypdf
+python-docx
+exifread
